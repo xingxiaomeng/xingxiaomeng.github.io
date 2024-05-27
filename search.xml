@@ -1,241 +1,9 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=2">
-<meta name="theme-color" content="#222">
-<meta name="generator" content="Hexo 7.1.1">
-  <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon-next.png">
-  <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32-next.png">
-  <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16-next.png">
-  <link rel="mask-icon" href="/images/logo.svg" color="#222">
-
-<link rel="stylesheet" href="/css/main.css">
-
-
-<link rel="stylesheet" href="/lib/font-awesome/css/all.min.css">
-  <link rel="stylesheet" href="//cdn.jsdelivr.net/gh/fancyapps/fancybox@3/dist/jquery.fancybox.min.css">
-
-<script id="hexo-configurations">
-    var NexT = window.NexT || {};
-    var CONFIG = {"hostname":"example.com","root":"/","scheme":"Pisces","version":"7.8.0","exturl":false,"sidebar":{"position":"left","display":"post","padding":18,"offset":12,"onmobile":false},"copycode":{"enable":false,"show_result":false,"style":null},"back2top":{"enable":true,"sidebar":true,"scrollpercent":false},"bookmark":{"enable":false,"color":"#222","save":"auto"},"fancybox":true,"mediumzoom":false,"lazyload":false,"pangu":false,"comments":{"style":"tabs","active":null,"storage":true,"lazyload":false,"nav":null},"algolia":{"hits":{"per_page":10},"labels":{"input_placeholder":"Search for Posts","hits_empty":"We didn't find any results for the search: ${query}","hits_stats":"${hits} results found in ${time} ms"}},"localsearch":{"enable":true,"trigger":"auto","top_n_per_article":1,"unescape":false,"preload":false},"motion":{"enable":true,"async":false,"transition":{"post_block":"fadeIn","post_header":"slideDownIn","post_body":"slideDownIn","coll_header":"slideLeftIn","sidebar":"slideUpIn"}},"path":"search.xml"};
-  </script>
-
-  <meta name="description" content="如果我不为自己,谁会为我呢?          如果我只为我自己,那我又是什么呢?">
-<meta property="og:type" content="website">
-<meta property="og:title" content="星梦沉沦的博客">
-<meta property="og:url" content="http://example.com/index.html">
-<meta property="og:site_name" content="星梦沉沦的博客">
-<meta property="og:description" content="如果我不为自己,谁会为我呢?          如果我只为我自己,那我又是什么呢?">
-<meta property="og:locale" content="en_US">
-<meta property="article:author" content="xingxiaomeng">
-<meta name="twitter:card" content="summary">
-
-<link rel="canonical" href="http://example.com/">
-
-
-<script id="page-configurations">
-  // https://hexo.io/docs/variables.html
-  CONFIG.page = {
-    sidebar: "",
-    isHome : true,
-    isPost : false,
-    lang   : 'en'
-  };
-</script>
-
-  <title>星梦沉沦的博客</title>
-  
-
-
-
-
-
-
-  <noscript>
-  <style>
-  .use-motion .brand,
-  .use-motion .menu-item,
-  .sidebar-inner,
-  .use-motion .post-block,
-  .use-motion .pagination,
-  .use-motion .comments,
-  .use-motion .post-header,
-  .use-motion .post-body,
-  .use-motion .collection-header { opacity: initial; }
-
-  .use-motion .site-title,
-  .use-motion .site-subtitle {
-    opacity: initial;
-    top: initial;
-  }
-
-  .use-motion .logo-line-before i { left: initial; }
-  .use-motion .logo-line-after i { right: initial; }
-  </style>
-</noscript>
-
-</head>
-
-<body itemscope itemtype="http://schema.org/WebPage">
-  <div class="container use-motion">
-    <div class="headband"></div>
-
-    <header class="header" itemscope itemtype="http://schema.org/WPHeader">
-      <div class="header-inner"><div class="site-brand-container">
-  <div class="site-nav-toggle">
-    <div class="toggle" aria-label="Toggle navigation bar">
-      <span class="toggle-line toggle-line-first"></span>
-      <span class="toggle-line toggle-line-middle"></span>
-      <span class="toggle-line toggle-line-last"></span>
-    </div>
-  </div>
-
-  <div class="site-meta">
-
-    <a href="/" class="brand" rel="start">
-      <span class="logo-line-before"><i></i></span>
-      <h1 class="site-title">星梦沉沦的博客</h1>
-      <span class="logo-line-after"><i></i></span>
-    </a>
-      <p class="site-subtitle" itemprop="description">在浅薄与魔怔之间,我们是第三种可能</p>
-  </div>
-
-  <div class="site-nav-right">
-    <div class="toggle popup-trigger">
-        <i class="fa fa-search fa-fw fa-lg"></i>
-    </div>
-  </div>
-</div>
-
-
-
-
-<nav class="site-nav">
-  <ul id="menu" class="main-menu menu">
-        <li class="menu-item menu-item-首页">
-
-    <a href="/" rel="section"><i class="fa fa-home fa-fw"></i>首页</a>
-
-  </li>
-        <li class="menu-item menu-item-关于">
-
-    <a href="/about/" rel="section"><i class="fa fa-user fa-fw"></i>关于</a>
-
-  </li>
-        <li class="menu-item menu-item-标签">
-
-    <a href="/tags/" rel="section"><i class="fa fa-tags fa-fw"></i>标签</a>
-
-  </li>
-        <li class="menu-item menu-item-分类">
-
-    <a href="/categories/" rel="section"><i class="fa fa-th fa-fw"></i>分类</a>
-
-  </li>
-        <li class="menu-item menu-item-文章">
-
-    <a href="/archives/" rel="section"><i class="fa fa-archive fa-fw"></i>文章</a>
-
-  </li>
-        <li class="menu-item menu-item-日程">
-
-    <a href="/schedule/" rel="section"><i class="fa fa-calendar fa-fw"></i>日程</a>
-
-  </li>
-        <li class="menu-item menu-item-地图">
-
-    <a href="/sitemap.xml" rel="section"><i class="fa fa-sitemap fa-fw"></i>地图</a>
-
-  </li>
-      <li class="menu-item menu-item-search">
-        <a role="button" class="popup-trigger"><i class="fa fa-search fa-fw"></i>Search
-        </a>
-      </li>
-  </ul>
-</nav>
-
-
-
-  <div class="search-pop-overlay">
-    <div class="popup search-popup">
-        <div class="search-header">
-  <span class="search-icon">
-    <i class="fa fa-search"></i>
-  </span>
-  <div class="search-input-container"></div>
-  <span class="popup-btn-close">
-    <i class="fa fa-times-circle"></i>
-  </span>
-</div>
-<div class="algolia-results">
-  <div id="algolia-stats"></div>
-  <div id="algolia-hits"></div>
-  <div id="algolia-pagination" class="algolia-pagination"></div>
-</div>
-
-      
-    </div>
-  </div>
-
-</div>
-    </header>
-
-    
-  <div class="reading-progress-bar"></div>
-
-
-    <main class="main">
-      <div class="main-inner">
-        <div class="content-wrap">
-          
-
-          <div class="content index posts-expand">
-            
-      
-  
-  
-  <article itemscope itemtype="http://schema.org/Article" class="post-block" lang="en">
-    <link itemprop="mainEntityOfPage" href="http://example.com/2024/03/17/first%20blog/">
-
-    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
-      <meta itemprop="image" content="/images/avatar.gif">
-      <meta itemprop="name" content="xingxiaomeng">
-      <meta itemprop="description" content="如果我不为自己,谁会为我呢?          如果我只为我自己,那我又是什么呢?">
-    </span>
-
-    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
-      <meta itemprop="name" content="星梦沉沦的博客">
-    </span>
-      <header class="post-header">
-        <h2 class="post-title" itemprop="name headline">
-          
-            <a href="/2024/03/17/first%20blog/" class="post-title-link" itemprop="url">·初见</a>
-        </h2>
-
-        <div class="post-meta">
-            <span class="post-meta-item">
-              <span class="post-meta-item-icon">
-                <i class="far fa-calendar"></i>
-              </span>
-              <span class="post-meta-item-text">Posted on</span>
-              
-
-              <time title="Created: 2024-03-17 15:07:51 / Modified: 15:52:20" itemprop="dateCreated datePublished" datetime="2024-03-17T15:07:51+08:00">2024-03-17</time>
-            </span>
-
-          
-
-        </div>
-      </header>
-
-    
-    
-    
-    <div class="post-body" itemprop="articleBody">
-
-      
-          <h1 id="搜索·AIGC"><a href="#搜索·AIGC" class="headerlink" title="搜索·AIGC"></a>搜索·AIGC</h1><blockquote>
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>·初见</title>
+    <url>/2024/03/17/first%20blog/</url>
+    <content><![CDATA[<h1 id="搜索·AIGC"><a href="#搜索·AIGC" class="headerlink" title="搜索·AIGC"></a>搜索·AIGC</h1><blockquote>
 <p>·搜索技术 +AI &#x3D; 超级搜索技术<br>·三个模块</p>
 </blockquote>
 <blockquote>
@@ -351,7 +119,7 @@
 <p>限定报告网站域名<br>inurl:baogao</p>
 </blockquote>
 <blockquote>
-<p>寻找类似网站<br>SimilarSite <a target="_blank" rel="noopener" href="https://www.similarsites.com/">点这里</a></p>
+<p>寻找类似网站<br>SimilarSite <a href="https://www.similarsites.com/">点这里</a></p>
 </blockquote>
 <p>1·Google</p>
 <blockquote>
@@ -407,7 +175,7 @@
 <h4 id="1-视频素材方面"><a href="#1-视频素材方面" class="headerlink" title="1.视频素材方面"></a>1.视频素材方面</h4><p>·影视剧<br>·google 一下</p>
 <p><strong>·视频素材搜索和下载</strong></p>
 <blockquote>
-<p>·免费无版权的高清视频素材网站<br>·<a target="_blank" rel="noopener" href="http://www.pexels.com/">www.pexels.com</a><br>·<a target="_blank" rel="noopener" href="http://www.pixabay.com/">www.pixabay.com</a><br>·<a target="_blank" rel="noopener" href="http://www.videvo.net/">www.videvo.net</a><br>·<a target="_blank" rel="noopener" href="http://www.mixkit.co/">www.mixkit.co</a></p>
+<p>·免费无版权的高清视频素材网站<br>·<a href="http://www.pexels.com/">www.pexels.com</a><br>·<a href="http://www.pixabay.com/">www.pixabay.com</a><br>·<a href="http://www.videvo.net/">www.videvo.net</a><br>·<a href="http://www.mixkit.co/">www.mixkit.co</a></p>
 </blockquote>
 <p><strong>#google</strong></p>
 <blockquote>
@@ -415,7 +183,7 @@
 </blockquote>
 <p><strong>#Youtube</strong></p>
 <blockquote>
-<p>·视频素材直接下载<br>·<a target="_blank" rel="noopener" href="http://www.9xyoutube.com/">www.9xyoutube.com</a><br>·4K超清<br>·save.tube<br>·全网通杀</p>
+<p>·视频素材直接下载<br>·<a href="http://www.9xyoutube.com/">www.9xyoutube.com</a><br>·4K超清<br>·save.tube<br>·全网通杀</p>
 </blockquote>
 <p><strong>#专门搜索4K频道</strong></p>
 <blockquote>
@@ -440,7 +208,7 @@
 </blockquote>
 <p><strong>#专门高清免费无版权的图片网站</strong></p>
 <blockquote>
-<p>·<a target="_blank" rel="noopener" href="http://www.unsplash(为什么没了/?)">www.unsplash(为什么没了?)</a><br>·免费无版权 一键下载</p>
+<p>·<a href="http://www.unsplash(为什么没了/?)">www.unsplash(为什么没了?)</a><br>·免费无版权 一键下载</p>
 </blockquote>
 <p><strong>#有版权的高清图片网站</strong></p>
 <blockquote>
@@ -511,189 +279,6 @@
 <p>·建立搜索意识<br>·全面掌握搜索技术<br>·更多细节深度的分享</p>
 </blockquote>
 <p><em>#搜索技术</em><br><em>#整合平台</em><br><em>#AIGC神器</em></p>
-
-      
-    </div>
-
-    
-    
-    
-      <footer class="post-footer">
-        <div class="post-eof"></div>
-      </footer>
-  </article>
-  
-  
-  
-
-
-  
-
-
-
-          </div>
-          
-
-<script>
-  window.addEventListener('tabs:register', () => {
-    let { activeClass } = CONFIG.comments;
-    if (CONFIG.comments.storage) {
-      activeClass = localStorage.getItem('comments_active') || activeClass;
-    }
-    if (activeClass) {
-      let activeTab = document.querySelector(`a[href="#comment-${activeClass}"]`);
-      if (activeTab) {
-        activeTab.click();
-      }
-    }
-  });
-  if (CONFIG.comments.storage) {
-    window.addEventListener('tabs:click', event => {
-      if (!event.target.matches('.tabs-comment .tab-content .tab-pane')) return;
-      let commentClass = event.target.classList[1];
-      localStorage.setItem('comments_active', commentClass);
-    });
-  }
-</script>
-
-        </div>
-          
-  
-  <div class="toggle sidebar-toggle">
-    <span class="toggle-line toggle-line-first"></span>
-    <span class="toggle-line toggle-line-middle"></span>
-    <span class="toggle-line toggle-line-last"></span>
-  </div>
-
-  <aside class="sidebar">
-    <div class="sidebar-inner">
-
-      <ul class="sidebar-nav motion-element">
-        <li class="sidebar-nav-toc">
-          Table of Contents
-        </li>
-        <li class="sidebar-nav-overview">
-          Overview
-        </li>
-      </ul>
-
-      <!--noindex-->
-      <div class="post-toc-wrap sidebar-panel">
-      </div>
-      <!--/noindex-->
-
-      <div class="site-overview-wrap sidebar-panel">
-        <div class="site-author motion-element" itemprop="author" itemscope itemtype="http://schema.org/Person">
-  <p class="site-author-name" itemprop="name">xingxiaomeng</p>
-  <div class="site-description" itemprop="description">如果我不为自己,谁会为我呢?          如果我只为我自己,那我又是什么呢?</div>
-</div>
-<div class="site-state-wrap motion-element">
-  <nav class="site-state">
-      <div class="site-state-item site-state-posts">
-          <a href="/archives">
-          <span class="site-state-item-count">1</span>
-          <span class="site-state-item-name">posts</span>
-        </a>
-      </div>
-  </nav>
-</div>
-  <div class="links-of-author motion-element">
-      <span class="links-of-author-item">
-        <a href="/f13328224714@gmail.com" title="E-Mail → f13328224714@gmail.com"><i class="fa fa-envelope fa-fw"></i>E-Mail</a>
-      </span>
-  </div>
-
-
-
-      </div>
-        <div class="back-to-top motion-element">
-          <i class="fa fa-arrow-up"></i>
-          <span>0%</span>
-        </div>
-
-    </div>
-  </aside>
-  <div id="sidebar-dimmer"></div>
-
-
-      </div>
-    </main>
-
-    <footer class="footer">
-      <div class="footer-inner">
-        
-
-        
-
-<div class="copyright">
-  
-  &copy; 
-  <span itemprop="copyrightYear">2024</span>
-  <span class="with-love">
-    <i class="fa fa-heart"></i>
-  </span>
-  <span class="author" itemprop="copyrightHolder">xingxiaomeng</span>
-</div>
-
-        
-
-
-
-
-
-
-
-
-      </div>
-    </footer>
-  </div>
-
-  
-  <script src="/lib/anime.min.js"></script>
-  <script src="//cdn.jsdelivr.net/npm/jquery@3/dist/jquery.min.js"></script>
-  <script src="//cdn.jsdelivr.net/gh/fancyapps/fancybox@3/dist/jquery.fancybox.min.js"></script>
-  <script src="/lib/velocity/velocity.min.js"></script>
-  <script src="/lib/velocity/velocity.ui.min.js"></script>
-
-<script src="/js/utils.js"></script>
-
-<script src="/js/motion.js"></script>
-
-
-<script src="/js/schemes/pisces.js"></script>
-
-
-<script src="/js/next-boot.js"></script>
-
-
-
-
-  
-
-
-
-
-  
-<script src="//cdn.jsdelivr.net/npm/algoliasearch@4/dist/algoliasearch-lite.umd.js"></script>
-<script src="//cdn.jsdelivr.net/npm/instantsearch.js@4/dist/instantsearch.production.min.js"></script>
-<script src="/js/algolia-search.js"></script>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-
-  
-
-</body>
-</html>
+]]></content>
+  </entry>
+</search>
