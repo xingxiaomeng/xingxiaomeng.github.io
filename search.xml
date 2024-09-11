@@ -1,287 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>·初见</title>
-    <url>/2024/03/17/first%20blog/</url>
-    <content><![CDATA[<h1 id="搜索·AIGC"><a href="#搜索·AIGC" class="headerlink" title="搜索·AIGC"></a>搜索·AIGC</h1><blockquote>
-<p>·搜索技术 +AI &#x3D; 超级搜索技术<br>·三个模块</p>
-</blockquote>
-<blockquote>
-<h2 id="一-搜索技术"><a href="#一-搜索技术" class="headerlink" title="(一)搜索技术"></a>(一)搜索技术</h2></blockquote>
-<blockquote>
-<h2 id="二-整合平台"><a href="#二-整合平台" class="headerlink" title="(二)整合平台"></a>(二)整合平台</h2></blockquote>
-<blockquote>
-<h2 id="三-AIGC神器"><a href="#三-AIGC神器" class="headerlink" title="(三)AIGC神器"></a>(三)AIGC神器</h2></blockquote>
-<h2 id="一-搜索技术-1"><a href="#一-搜索技术-1" class="headerlink" title="(一) 搜索技术"></a>(一) 搜索技术</h2><h3 id="一-信息咨询搜索"><a href="#一-信息咨询搜索" class="headerlink" title="一.信息咨询搜索"></a>一.信息咨询搜索</h3><p><strong>基本搜索语法</strong></p>
-<blockquote>
-<p>“限定词”<br>intitle:<br>allintitle:<br>allintext:<br>allinanchor:<br>inurl: cctv<br>allinurl:<br>keyword cache: m.happymh.com<br>site:  zhihu.com<br>目录结构  ·parent directory site:<br>特定文件  ·site:        filetype:<br>SQL注入  ·site:            inurl:<br>imagesize:<br>filetype:pdf   行业扫盲  研究报告 了解最新趋势<br>需求+online</p>
-</blockquote>
-<p>直奔信息源头    信息出处<br>最大程度确保信息咨询的准确性</p>
-<blockquote>
-<p>越是一手源头的信息越准确可信<br>1)电商网站详情页  了解产品性能<br>2)最新消息            关注 Youtuber Twitter<br>3)查询备案信息     商品详情页<br>搜索效率<br>谷歌&gt;公众号&gt;短视频&gt;百度</p>
-</blockquote>
-<p>学习差距&#x3D;信息差*时间投入<br><em>搜索技术强弱</em></p>
-<h3 id="二-知识技能搜索"><a href="#二-知识技能搜索" class="headerlink" title="二.知识技能搜索"></a>二.知识技能搜索</h3><blockquote>
-<p>基于知识在什么载体</p>
-</blockquote>
-<blockquote>
-<p>对应哪些搜索渠道</p>
-</blockquote>
-<p><strong>知识存储？</strong></p>
-<h4 id="1-组织内部-专业知识"><a href="#1-组织内部-专业知识" class="headerlink" title="1)组织内部  专业知识"></a>1)组织内部  专业知识</h4><blockquote>
-<p>同事电脑      项目全套资料<br>策划案<br>复盘报告</p>
-</blockquote>
-<blockquote>
-<p>企微钉钉飞书 聊天记录</p>
-</blockquote>
-<blockquote>
-<p>项目群<br>群文件<br>群模板</p>
-</blockquote>
-<blockquote>
-<p>线上知识库  企微钉钉飞书<br>知识库网盘<br>自己开发 wiki系统<br>confluence 第三方 知识库平台</p>
-</blockquote>
-<blockquote>
-<p>知识库         wiki信息太杂<br>PPT PDF脑图 文档<br>信息太简略<br>细节信息严重压缩</p>
-</blockquote>
-<h4 id="2-组织外部"><a href="#2-组织外部" class="headerlink" title="2)组织外部"></a>2)组织外部</h4><blockquote>
-<p>·网页                      web pages<br>·电子书                   eBooks<br>·电子文档                files<br>·学术论文               papers<br>·笔记Apps<br>·知识平台Apps<br>·视频网站Apps<br>·AI大脑ChatGPT<br>·牛人的大脑</p>
-</blockquote>
-<p>免费全公开</p>
-<blockquote>
-<p>e.g.谷歌能搜</p>
-</blockquote>
-<p>免费私域</p>
-<blockquote>
-<p>e.g.公众号</p>
-</blockquote>
-<p>收费私域</p>
-<blockquote>
-<p>e.g.得到APP</p>
-</blockquote>
-<p>国内互联网生态        </p>
-<blockquote>
-<p>#百度百科       论坛          知乎       得到<br>#CSDN         微信读书      公众号       B站<br>#网易云课堂   腾讯课堂      小抖快视    知识星球</p>
-</blockquote>
-<p>国外    英语语料  知识质量相对高</p>
-<blockquote>
-<p>谷歌图书 谷歌学术 维基百科  Udemy EDX coursera<br>wolfram  可汗学院 Youtube   Duolinggo   Udacity</p>
-</blockquote>
-<blockquote>
-<p>百度知道贴吧  －&gt;  知乎公众号   -&gt;  音视频网站<br>15年前             10年前            5年前</p>
-</blockquote>
-<p>变化趋势(国内高质量知识):</p>
-<blockquote>
-<p>1.从电脑端转向移动端<br>2.从文字转向视频<br>3.音频交付适应碎片化学习</p>
-</blockquote>
-<p>全世界认准</p>
-<blockquote>
-<p>Top1#Google<br>Top2#YouTube</p>
-</blockquote>
-<h4 id="知识搜索渠道怎么选："><a href="#知识搜索渠道怎么选：" class="headerlink" title="知识搜索渠道怎么选："></a>知识搜索渠道怎么选：</h4><p><strong>1.看你要的知识技能最有可能附着在哪类载体上</strong></p>
-<blockquote>
-<p>网页<br>PDF<br>电子书<br>视频教程</p>
-</blockquote>
-<p><strong>2.看你搜索知识技能为了什么</strong></p>
-<blockquote>
-<p>· 知道 know sth<br>   简单地了解</p>
-</blockquote>
-<blockquote>
-<p>· 学习 learn sth<br>   系统地学习知识或某项技能</p>
-</blockquote>
-<blockquote>
-<p>· 创作 creat sth<br>   创作一些内容      写研究报告  写专栏<br>   写书 写论文 写程序</p>
-</blockquote>
-<blockquote>
-<p>·知识的质量一定要高<br>·尽可能采用源头的一手知识<br>·尽可能采用高认可度的知识<br>· 一手的电子书 学术论文 &gt; 微信公众号文章</p>
-</blockquote>
-<p>  #学习视频教程<br> ·学播放量高的<br> ·卖的好的视频课程</p>
-<p> <em>·对自己所学知识有一定的品味</em><br> <em>·知道哪里的知识好</em><br> <em>·你得挑</em></p>
-<p> <strong>·知识垃圾 (别人咀嚼n遍，再喂给你的)</strong><br> <strong>·短视频里面最多</strong></p>
-<blockquote>
-<p>·除了别人电脑和大脑里的知识<br>·其他地方的知识<br>·只要你想<br>·花点时间搜索<br>·付点费用购买<br>·都可以拿到</p>
-</blockquote>
-<p>  <em>·伸手党</em><br>  <em>·职场新人</em><br>  <em>·成年人不懂就搜</em></p>
-<h4 id="1-搜索网页"><a href="#1-搜索网页" class="headerlink" title="1)搜索网页"></a>1)搜索网页</h4><p><strong>谷歌＋搜狗搜索＋微信搜一搜</strong></p>
-<blockquote>
-<p>·Google<br><strong>中文文本类知识</strong><br>·搜狗搜索<br>·微信APP搜一搜<br>公众号 知乎文章  腾讯内容生态封闭<br>谷歌搜不到      微信公众号的文章</p>
-</blockquote>
-<p><strong>专业向 知识社群</strong></p>
-<blockquote>
-<p>·垂直社群<br>·聚合网址<br>大量有用的知识经验<br>·GitHub<br>·stack overflow<br>·CSDN</p>
-</blockquote>
-<blockquote>
-<p>·产品经理导航网址<br>·设计师导航网址<br>·新媒体导航网址<br><em>怎么找？</em><br>·xx 行业&#x2F;岗位  必逛的网站<br>websites programmer should visit</p>
-</blockquote>
-<h4 id="2-PDF文档"><a href="#2-PDF文档" class="headerlink" title="2)PDF文档"></a>2)PDF文档</h4><blockquote>
-<p>限定PDF格式<br>filetype:pdf</p>
-</blockquote>
-<blockquote>
-<p>限定报告网站域名<br>inurl:baogao</p>
-</blockquote>
-<blockquote>
-<p>寻找类似网站<br>SimilarSite <a href="https://www.similarsites.com/">点这里</a></p>
-</blockquote>
-<p>1·Google</p>
-<blockquote>
-<p>·filetype:pdf<br><strong>研究报告</strong><br>·主流咨询公司<br>·证券公司<br>·非盈利机构<br>·大厂</p>
-</blockquote>
-<p>2·直接去垂类报告的网站</p>
-<blockquote>
-<p>·inurl:baogao<br>·SimilarSites:baogao.com<br><strong>聚合某个垂类 所有头部网站</strong><br><strong>建书签文件夹 把网站搜集到一块</strong><br>·输入网址<br>·找出类似网站</p>
-</blockquote>
-<p>3·学术论文</p>
-<p><strong>·国内</strong><br><em>下载中文论文</em><br><em>淘宝买个账号</em></p>
-<p><strong>·国外</strong><br>核心期刊英文论文</p>
-<p><strong>#谷歌学术</strong> </p>
-<blockquote>
-<p>做科研 论文很全<br>Google Scholar<br>·endnote 论文编辑软件 协同</p>
-</blockquote>
-<p><strong>#Sci-Hub</strong></p>
-<blockquote>
-<p>·主打一个免贵<br>·不支持搜索语法<br>·只能搜论文完整题目</p>
-</blockquote>
-<p><strong>学习最一手的最前沿的学术论文</strong></p>
-<h4 id="3-电子书"><a href="#3-电子书" class="headerlink" title="3)电子书"></a>3)电子书</h4><p><strong>#中文</strong><br><em>鸠摩搜书</em></p>
-<p><strong>#英文</strong></p>
-<blockquote>
-<p>·google.com<br>·best free ebook download sites</p>
-</blockquote>
-<p><strong>#常见</strong></p>
-<blockquote>
-<p>· z-lib.is<br>·manybooks.net<br>·pdfbooksworld.com<br>·谷歌图书Kindle</p>
-</blockquote>
-<p><strong>#电子书APP</strong></p>
-<blockquote>
-<p>·国内<br>·微信读书<br>·得到APP</p>
-</blockquote>
-<h4 id="4-视频"><a href="#4-视频" class="headerlink" title="4)视频"></a>4)视频</h4><p><em>#零碎</em><br>短视频平台</p>
-<p><strong>#系统</strong></p>
-<blockquote>
-<p>·B站<br>·油管<br>·网易云课堂<br>·腾讯课堂<br>·可汗学院<br>·Udacity<br>·edX<br>·Coursera<br>·OpenCulture</p>
-</blockquote>
-<p><strong>#谷歌</strong></p>
-<blockquote>
-<p>·google.com<br>·best online learning websites</p>
-</blockquote>
-<p><strong>#云盘</strong></p>
-<blockquote>
-<p>·google.com<br>·百度网盘搜索引擎<br>·学搜搜<br>·盘搜搜<br>·云盘狗</p>
-</blockquote>
-<h3 id="三-素材文件搜索"><a href="#三-素材文件搜索" class="headerlink" title="三.素材文件搜索"></a>三.素材文件搜索</h3><p><strong>·视频</strong><br><strong>·音频</strong><br><strong>·图片</strong><br><strong>·文件</strong></p>
-<p><strong>#用途</strong></p>
-<blockquote>
-<p>·学习创作<br>·纯搬运<br>·素材组合<br>·借鉴二创<br>·全新创作</p>
-</blockquote>
-<h4 id="1-视频素材方面"><a href="#1-视频素材方面" class="headerlink" title="1.视频素材方面"></a>1.视频素材方面</h4><p>·影视剧<br>·google 一下</p>
-<p><strong>·视频素材搜索和下载</strong></p>
-<blockquote>
-<p>·免费无版权的高清视频素材网站<br>·<a href="http://www.pexels.com/">www.pexels.com</a><br>·<a href="http://www.pixabay.com/">www.pixabay.com</a><br>·<a href="http://www.videvo.net/">www.videvo.net</a><br>·<a href="http://www.mixkit.co/">www.mixkit.co</a></p>
-</blockquote>
-<p><strong>#google</strong></p>
-<blockquote>
-<p>·best sites for free stock videos<br>·国外朋友总结的一些有价值的文章</p>
-</blockquote>
-<p><strong>#Youtube</strong></p>
-<blockquote>
-<p>·视频素材直接下载<br>·<a href="http://www.9xyoutube.com/">www.9xyoutube.com</a><br>·4K超清<br>·save.tube<br>·全网通杀</p>
-</blockquote>
-<p><strong>#专门搜索4K频道</strong></p>
-<blockquote>
-<p>·4K Japan<br>·8k 城市&#x2F;国家<br>·借用素材<br><em>·一定要注明出处</em></p>
-</blockquote>
-<h4 id="2-音频素材方面"><a href="#2-音频素材方面" class="headerlink" title="2.音频素材方面"></a>2.音频素材方面</h4><p><strong>·BGM</strong><br><strong>·音效</strong></p>
-<p><strong>#主流网站</strong></p>
-<blockquote>
-<p>·best sites for free bgm<br>·royalty free BGM sites</p>
-</blockquote>
-<p><em>·pixabay</em></p>
-<blockquote>
-<p>·免费无版权直接用<br>·音乐<br>·音效</p>
-</blockquote>
-<p><strong>#下载音频素材</strong></p>
-<blockquote>
-<p>·录制系统音频<br>·工具<br>·播放一遍<br>·然后完整录下来<br>·在千万条素材里<br>·找到一个你自己觉得非常合适的<br>·这条视频到底配什么BGM?<br>·玄学<br>·很考究自己的品味</p>
-</blockquote>
-<h4 id="3-图片素材方面"><a href="#3-图片素材方面" class="headerlink" title="3.图片素材方面"></a>3.图片素材方面</h4><p><strong>#google</strong></p>
-<blockquote>
-<p>·Tokyo aerial imagesize:2560x1440</p>
-</blockquote>
-<p><strong>#专门高清免费无版权的图片网站</strong></p>
-<blockquote>
-<p>·<a href="http://www.unsplash(为什么没了/?)">www.unsplash(为什么没了?)</a><br>·免费无版权 一键下载</p>
-</blockquote>
-<p><strong>#有版权的高清图片网站</strong></p>
-<blockquote>
-<p>·前提你不是用它来做商业用途<br>·gettyimages.com<br>·下载器<br>·Gettyimages Downloader<br>·steptodown.com</p>
-</blockquote>
-<p><strong>#市面上主流的版权图库</strong><br><strong>#社交APP</strong></p>
-<blockquote>
-<p>·都有相应的图片或者视频的下载器<br>·前提是不商用一般没事</p>
-</blockquote>
-<p><strong>#小众类别</strong></p>
-<blockquote>
-<p>·GIF动图<br>#google<br>·best gif sites<br>·GIPHY</p>
-</blockquote>
-<p><strong>·icon图标</strong><br>#google</p>
-<blockquote>
-<p>·关键词 icon filetype:png<br>·国内网站 阿里<br>·iconfont.cn</p>
-</blockquote>
-<h4 id="4-文件素材方面"><a href="#4-文件素材方面" class="headerlink" title="4.文件素材方面"></a>4.文件素材方面</h4><p><strong>#主要设计相关的工程文件</strong></p>
-<blockquote>
-<p>·直接拿高手的工程文件去对标学习<br>·你的成长速度会很快</p>
-</blockquote>
-<blockquote>
-<p>·PPT模板<br>·PS<br>·AI<br>·C4D<br>·CAD</p>
-</blockquote>
-<p><strong>#PPT模板</strong></p>
-<blockquote>
-<p>·国内<br>·iSlide 插件</p>
-</blockquote>
-<blockquote>
-<p>·在线设计网站<br>·canva.com<br>·质量很高(国际版质量更高)</p>
-</blockquote>
-<p><strong>#垂类相关网站</strong><br><em>#google</em></p>
-<blockquote>
-<p>·PS<br>·AI<br>·C4D</p>
-</blockquote>
-<h3 id="四-工具软件搜索"><a href="#四-工具软件搜索" class="headerlink" title="四.工具软件搜索"></a>四.工具软件搜索</h3><p><strong>·单纯为了解决某个需求</strong><br><strong>·完成特定的工作任务</strong><br><em>·do sth</em></p>
-<p><strong>#生产力工具</strong></p>
-<blockquote>
-<p>·Mac&#x2F;Win 电脑软件<br>·Android&#x2F;IOS APP<br>·Edge&#x2F;Chrome 插件<br>·Plugin 电脑软件插件</p>
-</blockquote>
-<p><strong>#选择思考逻辑</strong></p>
-<blockquote>
-<p>在线工具  -&gt;  下载软件  -&gt;  安装插件<br>·在线<br>·软件<br>·插件</p>
-</blockquote>
-<h2 id="二-整合平台-1"><a href="#二-整合平台-1" class="headerlink" title="(二)整合平台"></a>(二)整合平台</h2><blockquote>
-<p>·搜索+学习 得到<br>·搜索+创作 Canva</p>
-</blockquote>
-<h2 id="三-AIGC神器-1"><a href="#三-AIGC神器-1" class="headerlink" title="(三)AIGC神器"></a>(三)AIGC神器</h2><p><strong>ChatGPT</strong></p>
-<blockquote>
-<p>·know everything<br>·插件模式</p>
-</blockquote>
-<p><strong>#ChatGPT的特点</strong></p>
-<blockquote>
-<p>·直接给答案<br>·对答案进行追问<br>·方便对比<br>·推理能力<br>·回答组合的定制问题</p>
-</blockquote>
-<p><strong>#Why</strong> </p>
-<blockquote>
-<p>·你想做的事情 99.99%别人都做过 而且比你做的好<br>·搜到它学习它利用它避开它超越它<br>·互联网时代赋予我们的能力<br>·极大程度打破信息差的能力</p>
-</blockquote>
-<p>#掌握AI技术<br>#掌握ChatGPT使用技巧<br>#掌握AIGC</p>
-<p><strong>·基于搜索技术和搜索目的</strong><br><strong>·再去理解和学习AI的应用</strong><br><strong>·你会更有方向</strong></p>
-<p><strong>搜索技术 +AI &#x3D; 超级搜索技术</strong></p>
-<blockquote>
-<p>·普通人想变强<br>·超级搜索技术<br>·是唯一的几乎零成本的外挂<br>·先掌握它再去战斗</p>
-</blockquote>
-<p>#系统框架的视频</p>
-<blockquote>
-<p>·建立搜索意识<br>·全面掌握搜索技术<br>·更多细节深度的分享</p>
-</blockquote>
-<p><em>#搜索技术</em><br><em>#整合平台</em><br><em>#AIGC神器</em></p>
-]]></content>
-  </entry>
-  <entry>
     <title>上帝掷骰子么</title>
     <url>/2024/09/11/%E4%B8%8A%E5%B8%9D%E6%8E%B7%E9%AA%B0%E5%AD%90%E4%B9%88/</url>
     <content><![CDATA[<h1 id="上帝掷骰子么"><a href="#上帝掷骰子么" class="headerlink" title="上帝掷骰子么"></a>上帝掷骰子么</h1><p><strong>Q&amp;A</strong><br>You: </p>
@@ -348,13 +67,13 @@
           /    \          /    \
          /      \        /      \
         /        \      /        \
-    无意义      不可预测  随机事件   不可控因素
+    无意义   不可预测  随机事件   不可控因素
       |           |       |           |
       |           |       |           |
       |           |       |           |
       |           |       |           |
       V           V       V           V
-     不可证伪    独断论  不可证伪  独断论
+    不可证伪    独断论  不可证伪     独断论
 </code></pre>
 <p><strong>比喻: 理性理论就像一个精密的机器，它可以解释和预测很多现象，但它无法解释机器本身的起源和意义。</strong></p>
 <p><strong>原理: 理性理论的困境在于：</strong></p>
@@ -772,6 +491,287 @@ V            V       V
 </ol>
 </blockquote>
 <p>量子力学的随机性： 量子力学中的随机性，是否挑战了我们对因果关系的理解？<br>观察者效应： 观察者对量子现象的影响，是否意味着意识对现实具有影响力？<br>量子力学与意识： 量子力学是否能为理解意识提供新的思路？</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>·初见</title>
+    <url>/2024/03/17/first%20blog/</url>
+    <content><![CDATA[<h1 id="搜索·AIGC"><a href="#搜索·AIGC" class="headerlink" title="搜索·AIGC"></a>搜索·AIGC</h1><blockquote>
+<p>·搜索技术 +AI &#x3D; 超级搜索技术<br>·三个模块</p>
+</blockquote>
+<blockquote>
+<h2 id="一-搜索技术"><a href="#一-搜索技术" class="headerlink" title="(一)搜索技术"></a>(一)搜索技术</h2></blockquote>
+<blockquote>
+<h2 id="二-整合平台"><a href="#二-整合平台" class="headerlink" title="(二)整合平台"></a>(二)整合平台</h2></blockquote>
+<blockquote>
+<h2 id="三-AIGC神器"><a href="#三-AIGC神器" class="headerlink" title="(三)AIGC神器"></a>(三)AIGC神器</h2></blockquote>
+<h2 id="一-搜索技术-1"><a href="#一-搜索技术-1" class="headerlink" title="(一) 搜索技术"></a>(一) 搜索技术</h2><h3 id="一-信息咨询搜索"><a href="#一-信息咨询搜索" class="headerlink" title="一.信息咨询搜索"></a>一.信息咨询搜索</h3><p><strong>基本搜索语法</strong></p>
+<blockquote>
+<p>“限定词”<br>intitle:<br>allintitle:<br>allintext:<br>allinanchor:<br>inurl: cctv<br>allinurl:<br>keyword cache: m.happymh.com<br>site:  zhihu.com<br>目录结构  ·parent directory site:<br>特定文件  ·site:        filetype:<br>SQL注入  ·site:            inurl:<br>imagesize:<br>filetype:pdf   行业扫盲  研究报告 了解最新趋势<br>需求+online</p>
+</blockquote>
+<p>直奔信息源头    信息出处<br>最大程度确保信息咨询的准确性</p>
+<blockquote>
+<p>越是一手源头的信息越准确可信<br>1)电商网站详情页  了解产品性能<br>2)最新消息            关注 Youtuber Twitter<br>3)查询备案信息     商品详情页<br>搜索效率<br>谷歌&gt;公众号&gt;短视频&gt;百度</p>
+</blockquote>
+<p>学习差距&#x3D;信息差*时间投入<br><em>搜索技术强弱</em></p>
+<h3 id="二-知识技能搜索"><a href="#二-知识技能搜索" class="headerlink" title="二.知识技能搜索"></a>二.知识技能搜索</h3><blockquote>
+<p>基于知识在什么载体</p>
+</blockquote>
+<blockquote>
+<p>对应哪些搜索渠道</p>
+</blockquote>
+<p><strong>知识存储？</strong></p>
+<h4 id="1-组织内部-专业知识"><a href="#1-组织内部-专业知识" class="headerlink" title="1)组织内部  专业知识"></a>1)组织内部  专业知识</h4><blockquote>
+<p>同事电脑      项目全套资料<br>策划案<br>复盘报告</p>
+</blockquote>
+<blockquote>
+<p>企微钉钉飞书 聊天记录</p>
+</blockquote>
+<blockquote>
+<p>项目群<br>群文件<br>群模板</p>
+</blockquote>
+<blockquote>
+<p>线上知识库  企微钉钉飞书<br>知识库网盘<br>自己开发 wiki系统<br>confluence 第三方 知识库平台</p>
+</blockquote>
+<blockquote>
+<p>知识库         wiki信息太杂<br>PPT PDF脑图 文档<br>信息太简略<br>细节信息严重压缩</p>
+</blockquote>
+<h4 id="2-组织外部"><a href="#2-组织外部" class="headerlink" title="2)组织外部"></a>2)组织外部</h4><blockquote>
+<p>·网页                      web pages<br>·电子书                   eBooks<br>·电子文档                files<br>·学术论文               papers<br>·笔记Apps<br>·知识平台Apps<br>·视频网站Apps<br>·AI大脑ChatGPT<br>·牛人的大脑</p>
+</blockquote>
+<p>免费全公开</p>
+<blockquote>
+<p>e.g.谷歌能搜</p>
+</blockquote>
+<p>免费私域</p>
+<blockquote>
+<p>e.g.公众号</p>
+</blockquote>
+<p>收费私域</p>
+<blockquote>
+<p>e.g.得到APP</p>
+</blockquote>
+<p>国内互联网生态        </p>
+<blockquote>
+<p>#百度百科       论坛          知乎       得到<br>#CSDN         微信读书      公众号       B站<br>#网易云课堂   腾讯课堂      小抖快视    知识星球</p>
+</blockquote>
+<p>国外    英语语料  知识质量相对高</p>
+<blockquote>
+<p>谷歌图书 谷歌学术 维基百科  Udemy EDX coursera<br>wolfram  可汗学院 Youtube   Duolinggo   Udacity</p>
+</blockquote>
+<blockquote>
+<p>百度知道贴吧  －&gt;  知乎公众号   -&gt;  音视频网站<br>15年前             10年前            5年前</p>
+</blockquote>
+<p>变化趋势(国内高质量知识):</p>
+<blockquote>
+<p>1.从电脑端转向移动端<br>2.从文字转向视频<br>3.音频交付适应碎片化学习</p>
+</blockquote>
+<p>全世界认准</p>
+<blockquote>
+<p>Top1#Google<br>Top2#YouTube</p>
+</blockquote>
+<h4 id="知识搜索渠道怎么选："><a href="#知识搜索渠道怎么选：" class="headerlink" title="知识搜索渠道怎么选："></a>知识搜索渠道怎么选：</h4><p><strong>1.看你要的知识技能最有可能附着在哪类载体上</strong></p>
+<blockquote>
+<p>网页<br>PDF<br>电子书<br>视频教程</p>
+</blockquote>
+<p><strong>2.看你搜索知识技能为了什么</strong></p>
+<blockquote>
+<p>· 知道 know sth<br>   简单地了解</p>
+</blockquote>
+<blockquote>
+<p>· 学习 learn sth<br>   系统地学习知识或某项技能</p>
+</blockquote>
+<blockquote>
+<p>· 创作 creat sth<br>   创作一些内容      写研究报告  写专栏<br>   写书 写论文 写程序</p>
+</blockquote>
+<blockquote>
+<p>·知识的质量一定要高<br>·尽可能采用源头的一手知识<br>·尽可能采用高认可度的知识<br>· 一手的电子书 学术论文 &gt; 微信公众号文章</p>
+</blockquote>
+<p>  #学习视频教程<br> ·学播放量高的<br> ·卖的好的视频课程</p>
+<p> <em>·对自己所学知识有一定的品味</em><br> <em>·知道哪里的知识好</em><br> <em>·你得挑</em></p>
+<p> <strong>·知识垃圾 (别人咀嚼n遍，再喂给你的)</strong><br> <strong>·短视频里面最多</strong></p>
+<blockquote>
+<p>·除了别人电脑和大脑里的知识<br>·其他地方的知识<br>·只要你想<br>·花点时间搜索<br>·付点费用购买<br>·都可以拿到</p>
+</blockquote>
+<p>  <em>·伸手党</em><br>  <em>·职场新人</em><br>  <em>·成年人不懂就搜</em></p>
+<h4 id="1-搜索网页"><a href="#1-搜索网页" class="headerlink" title="1)搜索网页"></a>1)搜索网页</h4><p><strong>谷歌＋搜狗搜索＋微信搜一搜</strong></p>
+<blockquote>
+<p>·Google<br><strong>中文文本类知识</strong><br>·搜狗搜索<br>·微信APP搜一搜<br>公众号 知乎文章  腾讯内容生态封闭<br>谷歌搜不到      微信公众号的文章</p>
+</blockquote>
+<p><strong>专业向 知识社群</strong></p>
+<blockquote>
+<p>·垂直社群<br>·聚合网址<br>大量有用的知识经验<br>·GitHub<br>·stack overflow<br>·CSDN</p>
+</blockquote>
+<blockquote>
+<p>·产品经理导航网址<br>·设计师导航网址<br>·新媒体导航网址<br><em>怎么找？</em><br>·xx 行业&#x2F;岗位  必逛的网站<br>websites programmer should visit</p>
+</blockquote>
+<h4 id="2-PDF文档"><a href="#2-PDF文档" class="headerlink" title="2)PDF文档"></a>2)PDF文档</h4><blockquote>
+<p>限定PDF格式<br>filetype:pdf</p>
+</blockquote>
+<blockquote>
+<p>限定报告网站域名<br>inurl:baogao</p>
+</blockquote>
+<blockquote>
+<p>寻找类似网站<br>SimilarSite <a href="https://www.similarsites.com/">点这里</a></p>
+</blockquote>
+<p>1·Google</p>
+<blockquote>
+<p>·filetype:pdf<br><strong>研究报告</strong><br>·主流咨询公司<br>·证券公司<br>·非盈利机构<br>·大厂</p>
+</blockquote>
+<p>2·直接去垂类报告的网站</p>
+<blockquote>
+<p>·inurl:baogao<br>·SimilarSites:baogao.com<br><strong>聚合某个垂类 所有头部网站</strong><br><strong>建书签文件夹 把网站搜集到一块</strong><br>·输入网址<br>·找出类似网站</p>
+</blockquote>
+<p>3·学术论文</p>
+<p><strong>·国内</strong><br><em>下载中文论文</em><br><em>淘宝买个账号</em></p>
+<p><strong>·国外</strong><br>核心期刊英文论文</p>
+<p><strong>#谷歌学术</strong> </p>
+<blockquote>
+<p>做科研 论文很全<br>Google Scholar<br>·endnote 论文编辑软件 协同</p>
+</blockquote>
+<p><strong>#Sci-Hub</strong></p>
+<blockquote>
+<p>·主打一个免贵<br>·不支持搜索语法<br>·只能搜论文完整题目</p>
+</blockquote>
+<p><strong>学习最一手的最前沿的学术论文</strong></p>
+<h4 id="3-电子书"><a href="#3-电子书" class="headerlink" title="3)电子书"></a>3)电子书</h4><p><strong>#中文</strong><br><em>鸠摩搜书</em></p>
+<p><strong>#英文</strong></p>
+<blockquote>
+<p>·google.com<br>·best free ebook download sites</p>
+</blockquote>
+<p><strong>#常见</strong></p>
+<blockquote>
+<p>· z-lib.is<br>·manybooks.net<br>·pdfbooksworld.com<br>·谷歌图书Kindle</p>
+</blockquote>
+<p><strong>#电子书APP</strong></p>
+<blockquote>
+<p>·国内<br>·微信读书<br>·得到APP</p>
+</blockquote>
+<h4 id="4-视频"><a href="#4-视频" class="headerlink" title="4)视频"></a>4)视频</h4><p><em>#零碎</em><br>短视频平台</p>
+<p><strong>#系统</strong></p>
+<blockquote>
+<p>·B站<br>·油管<br>·网易云课堂<br>·腾讯课堂<br>·可汗学院<br>·Udacity<br>·edX<br>·Coursera<br>·OpenCulture</p>
+</blockquote>
+<p><strong>#谷歌</strong></p>
+<blockquote>
+<p>·google.com<br>·best online learning websites</p>
+</blockquote>
+<p><strong>#云盘</strong></p>
+<blockquote>
+<p>·google.com<br>·百度网盘搜索引擎<br>·学搜搜<br>·盘搜搜<br>·云盘狗</p>
+</blockquote>
+<h3 id="三-素材文件搜索"><a href="#三-素材文件搜索" class="headerlink" title="三.素材文件搜索"></a>三.素材文件搜索</h3><p><strong>·视频</strong><br><strong>·音频</strong><br><strong>·图片</strong><br><strong>·文件</strong></p>
+<p><strong>#用途</strong></p>
+<blockquote>
+<p>·学习创作<br>·纯搬运<br>·素材组合<br>·借鉴二创<br>·全新创作</p>
+</blockquote>
+<h4 id="1-视频素材方面"><a href="#1-视频素材方面" class="headerlink" title="1.视频素材方面"></a>1.视频素材方面</h4><p>·影视剧<br>·google 一下</p>
+<p><strong>·视频素材搜索和下载</strong></p>
+<blockquote>
+<p>·免费无版权的高清视频素材网站<br>·<a href="http://www.pexels.com/">www.pexels.com</a><br>·<a href="http://www.pixabay.com/">www.pixabay.com</a><br>·<a href="http://www.videvo.net/">www.videvo.net</a><br>·<a href="http://www.mixkit.co/">www.mixkit.co</a></p>
+</blockquote>
+<p><strong>#google</strong></p>
+<blockquote>
+<p>·best sites for free stock videos<br>·国外朋友总结的一些有价值的文章</p>
+</blockquote>
+<p><strong>#Youtube</strong></p>
+<blockquote>
+<p>·视频素材直接下载<br>·<a href="http://www.9xyoutube.com/">www.9xyoutube.com</a><br>·4K超清<br>·save.tube<br>·全网通杀</p>
+</blockquote>
+<p><strong>#专门搜索4K频道</strong></p>
+<blockquote>
+<p>·4K Japan<br>·8k 城市&#x2F;国家<br>·借用素材<br><em>·一定要注明出处</em></p>
+</blockquote>
+<h4 id="2-音频素材方面"><a href="#2-音频素材方面" class="headerlink" title="2.音频素材方面"></a>2.音频素材方面</h4><p><strong>·BGM</strong><br><strong>·音效</strong></p>
+<p><strong>#主流网站</strong></p>
+<blockquote>
+<p>·best sites for free bgm<br>·royalty free BGM sites</p>
+</blockquote>
+<p><em>·pixabay</em></p>
+<blockquote>
+<p>·免费无版权直接用<br>·音乐<br>·音效</p>
+</blockquote>
+<p><strong>#下载音频素材</strong></p>
+<blockquote>
+<p>·录制系统音频<br>·工具<br>·播放一遍<br>·然后完整录下来<br>·在千万条素材里<br>·找到一个你自己觉得非常合适的<br>·这条视频到底配什么BGM?<br>·玄学<br>·很考究自己的品味</p>
+</blockquote>
+<h4 id="3-图片素材方面"><a href="#3-图片素材方面" class="headerlink" title="3.图片素材方面"></a>3.图片素材方面</h4><p><strong>#google</strong></p>
+<blockquote>
+<p>·Tokyo aerial imagesize:2560x1440</p>
+</blockquote>
+<p><strong>#专门高清免费无版权的图片网站</strong></p>
+<blockquote>
+<p>·<a href="http://www.unsplash(为什么没了/?)">www.unsplash(为什么没了?)</a><br>·免费无版权 一键下载</p>
+</blockquote>
+<p><strong>#有版权的高清图片网站</strong></p>
+<blockquote>
+<p>·前提你不是用它来做商业用途<br>·gettyimages.com<br>·下载器<br>·Gettyimages Downloader<br>·steptodown.com</p>
+</blockquote>
+<p><strong>#市面上主流的版权图库</strong><br><strong>#社交APP</strong></p>
+<blockquote>
+<p>·都有相应的图片或者视频的下载器<br>·前提是不商用一般没事</p>
+</blockquote>
+<p><strong>#小众类别</strong></p>
+<blockquote>
+<p>·GIF动图<br>#google<br>·best gif sites<br>·GIPHY</p>
+</blockquote>
+<p><strong>·icon图标</strong><br>#google</p>
+<blockquote>
+<p>·关键词 icon filetype:png<br>·国内网站 阿里<br>·iconfont.cn</p>
+</blockquote>
+<h4 id="4-文件素材方面"><a href="#4-文件素材方面" class="headerlink" title="4.文件素材方面"></a>4.文件素材方面</h4><p><strong>#主要设计相关的工程文件</strong></p>
+<blockquote>
+<p>·直接拿高手的工程文件去对标学习<br>·你的成长速度会很快</p>
+</blockquote>
+<blockquote>
+<p>·PPT模板<br>·PS<br>·AI<br>·C4D<br>·CAD</p>
+</blockquote>
+<p><strong>#PPT模板</strong></p>
+<blockquote>
+<p>·国内<br>·iSlide 插件</p>
+</blockquote>
+<blockquote>
+<p>·在线设计网站<br>·canva.com<br>·质量很高(国际版质量更高)</p>
+</blockquote>
+<p><strong>#垂类相关网站</strong><br><em>#google</em></p>
+<blockquote>
+<p>·PS<br>·AI<br>·C4D</p>
+</blockquote>
+<h3 id="四-工具软件搜索"><a href="#四-工具软件搜索" class="headerlink" title="四.工具软件搜索"></a>四.工具软件搜索</h3><p><strong>·单纯为了解决某个需求</strong><br><strong>·完成特定的工作任务</strong><br><em>·do sth</em></p>
+<p><strong>#生产力工具</strong></p>
+<blockquote>
+<p>·Mac&#x2F;Win 电脑软件<br>·Android&#x2F;IOS APP<br>·Edge&#x2F;Chrome 插件<br>·Plugin 电脑软件插件</p>
+</blockquote>
+<p><strong>#选择思考逻辑</strong></p>
+<blockquote>
+<p>在线工具  -&gt;  下载软件  -&gt;  安装插件<br>·在线<br>·软件<br>·插件</p>
+</blockquote>
+<h2 id="二-整合平台-1"><a href="#二-整合平台-1" class="headerlink" title="(二)整合平台"></a>(二)整合平台</h2><blockquote>
+<p>·搜索+学习 得到<br>·搜索+创作 Canva</p>
+</blockquote>
+<h2 id="三-AIGC神器-1"><a href="#三-AIGC神器-1" class="headerlink" title="(三)AIGC神器"></a>(三)AIGC神器</h2><p><strong>ChatGPT</strong></p>
+<blockquote>
+<p>·know everything<br>·插件模式</p>
+</blockquote>
+<p><strong>#ChatGPT的特点</strong></p>
+<blockquote>
+<p>·直接给答案<br>·对答案进行追问<br>·方便对比<br>·推理能力<br>·回答组合的定制问题</p>
+</blockquote>
+<p><strong>#Why</strong> </p>
+<blockquote>
+<p>·你想做的事情 99.99%别人都做过 而且比你做的好<br>·搜到它学习它利用它避开它超越它<br>·互联网时代赋予我们的能力<br>·极大程度打破信息差的能力</p>
+</blockquote>
+<p>#掌握AI技术<br>#掌握ChatGPT使用技巧<br>#掌握AIGC</p>
+<p><strong>·基于搜索技术和搜索目的</strong><br><strong>·再去理解和学习AI的应用</strong><br><strong>·你会更有方向</strong></p>
+<p><strong>搜索技术 +AI &#x3D; 超级搜索技术</strong></p>
+<blockquote>
+<p>·普通人想变强<br>·超级搜索技术<br>·是唯一的几乎零成本的外挂<br>·先掌握它再去战斗</p>
+</blockquote>
+<p>#系统框架的视频</p>
+<blockquote>
+<p>·建立搜索意识<br>·全面掌握搜索技术<br>·更多细节深度的分享</p>
+</blockquote>
+<p><em>#搜索技术</em><br><em>#整合平台</em><br><em>#AIGC神器</em></p>
 ]]></content>
   </entry>
 </search>
